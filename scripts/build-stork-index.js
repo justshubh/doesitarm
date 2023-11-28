@@ -9,4 +9,5 @@ import {
     await buildIndex()
 
     process.exit()
+    
 })()
